@@ -48,3 +48,13 @@ for (let index = 0; index < fruits.length; index++) {
     
 }
 
+console.log("______________________________________________________________")
+//for of
+
+for (const fruit of fruits) {
+
+    if(fruit.includes("o") > 0){
+        console.log(fruit.toUpperCase());
+    }
+        
+}
