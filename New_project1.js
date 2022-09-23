@@ -39,4 +39,12 @@ for (let index = 4; index > -1; index--) {
     
 }
 
+console.log("______________________________________________________________")
+
+for (let index = 0; index < fruits.length; index++) {
+    const element = fruits[index];
+    let mySentence = `${element} is the number ${index + 1} fruit in the array`
+    console.log(mySentence);
+    
+}
 
