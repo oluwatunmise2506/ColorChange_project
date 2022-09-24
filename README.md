@@ -6,5 +6,4 @@ What I have learnt so far:
 
 - HTML
 - CSS
-- **Bba suew==ee**
-- _thhhdhdhd_
+- JavaScript
