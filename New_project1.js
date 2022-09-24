@@ -83,5 +83,3 @@ console.log(Array.isArray(food));
 
 console.log("___________________________________________");
 
-food.pop()
-console.log(food);
