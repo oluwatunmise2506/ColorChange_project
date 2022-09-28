@@ -1,0 +1,17 @@
+#outer_div {
+    background-color: blue;
+    text-align: center;
+    height: 550px;
+    width: 700px;
+    margin: 0px 200px 100px 80px;
+     
+} 
+
+#btn_click {
+    margin-top:250px;
+    width: 120px;
+    height: 50px;
+    background-color: red;
+    border-color:black ;
+    border-radius: 5px;
+}                     
